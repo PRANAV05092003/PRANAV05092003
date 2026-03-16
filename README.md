@@ -43,15 +43,24 @@ I am a **B.Tech Final Year** student at GL Bajaj (2025 Graduate) specializing in
 
 ---
 
-## 📈 GitHub Performance
+---
+
+## 📈 Engineering Metrics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PRANAV05092003&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=PRANAV05092003&theme=tokyonight&hide_border=true" width="48%" />
+  <a href="https://github.com/PRANAV05092003">
+    <img src="https://github-readme-stats.vercel.app/api?username=PRANAV05092003&show_icons=true&theme=tokyonight&hide_border=true&title_color=33ccff&text_color=ffffff&icon_color=33ccff" alt="Pranav's GitHub Stats" width="400" />
+  </a>
+  <a href="https://github.com/PRANAV05092003">
+    <img src="https://streak-stats.demolab.com?user=PRANAV05092003&theme=tokyonight&hide_border=true&fire=33ccff&ring=33ccff" alt="GitHub Streak" width="420" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRANAV05092003&layout=compact&theme=tokyonight&hide_border=true" width="70%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRANAV05092003&layout=compact&theme=tokyonight&hide_border=true&title_color=33ccff&text_color=ffffff" width="400" />
 </p>
+
+---
 
 ### 📅 Contribution Activity
 <p align="center">
